@@ -11,15 +11,15 @@ I work with my PhD advisor <a href="https://sites.google.com/mail.cse.nsysu.edu.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** image recognition, spatial transformation
+- **Machine Learning:** deep learning on medical image, ultrasound guidance
+- **Critical Care Medicine:** Emergency Medicine, Airway Management, Point-of-Care Ultrasound
 
-## News
+## Projects
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Aug. 2022]** Utilization of artificial neural network and transfer learning to predict dyskalemia based on ECG in patients receiving regular hemodialysis.
+- **[Jun. 2022]** Development of artificial intelligence assisted ultrasound guidance system for abdominal aorta examination and aneurysm screeing.
+
 
 ## Publications
 
