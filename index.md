@@ -29,23 +29,6 @@ I work with my PhD advisor <a href="https://sites.google.com/mail.cse.nsysu.edu.
 - [Machine learning models for predicting in-hospital mortality in patient with sepsis: Analysis of vital sign dynamics.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631306/) Chi-Yung Cheng, Chia-Te Kung, Fu-Cheng Chen, <b>I-Min Chiu</b>, Chun-Hung Richard Lin, Chun-Chieh Chu, Chien Feng Kung, and Chih-Min Su. Front Med (Lausanne). 2022 Oct 20;9:964667
 - [Clinical Validation of the Shock Index, Modified Shock Index, Delta Shock Index, and Shock Index-C for Emergency Department ST-Segment Elevation Myocardial Infarction.](https://pubmed.ncbi.nlm.nih.gov/36233705/) Chiang CY, Lin CF, Liu PH, Chen FC, <b>Chiu IM</b>, Cheng FJ. J Clin Med. 2022 Oct 1;11(19):5839.
 
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
-  <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
-  <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
-  <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
-  <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
-  <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
-  <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
-## Services
-
-- Conference Reviewers: NeurIPS 2020, CVPR 2020.
-- Journal Reviewers: T-PAMI, IJCV.
+<i style="color:808080">2021</i>
+- [Using a Multiclass Machine Learning Model to Predict the Outcome of Acute Ischemic Stroke Requiring Reperfusion Therapy](https://pubmed.ncbi.nlm.nih.gov/33419013/)
+<b>Chiu IM</b>, Zeng WH, Cheng CY, Chen SH, Lin CR.   Diagnostics (Basel). 2021 Jan 6;11(1):80.
