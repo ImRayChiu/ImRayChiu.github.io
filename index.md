@@ -37,6 +37,7 @@ I work with my PhD advisor <a href="https://sites.google.com/mail.cse.nsysu.edu.
 - [Machine Learning Models for Survival and Neurological Outcome Prediction of Out-of-Hospital Cardiac Arrest Patients](https://pubmed.ncbi.nlm.nih.gov/34589553/) Cheng CY, <b>Chiu IM</b>, Zeng WH, Tsai CM, Lin CR.  Biomed Res Int. 2021 Sep 17;2021:9590131.
 - [Shock Index, Pediatric Age-adjusted Predicts Morbidity and Mortality in Children Admitted to the Intensive Care Unit](https://pubmed.ncbi.nlm.nih.gov/34650944/) Huang KC, Yang Y, Li CJ, Cheng FJ, Huang YH, Chuang PC, <b>Chiu IM</b>.   Front Pediatr. 2021 Sep 28;9:727466.
 - [Deep Learning Assisted Detection of Abdominal Free Fluid in Morison’s Pouch during Focused Assessment with Sonography in Trauma](https://www.frontiersin.org/articles/10.3389/fmed.2021.707437/full) Cheng C-Y, <b>Chiu I-M</b>, Hsu M-Y, Pan H-Y, Tsai C-M and Lin C-HR    Front. Med. 2021 Sep 8:707437.
+
 <i style="color:808080">2020</i>
 - [Using machine learning to predict bacteremia in febrile children presented to the emergency department](https://pubmed.ncbi.nlm.nih.gov/32429293/) Tsai CM, Lin CR, Zhang H, <b>Chiu IM</b>, Cheng CY, Yu HR, Huang YH.   Diagnostics (Basel). 2020 May 15;10(5):307.
 - [Self-screening to reduce medical resource consumption facing the COVID-19 pandemic](https://emj.bmj.com/content/37/5/255) <b>Chiu, IM</b> and Cheng, CY and Zhang, H and Lin, CH    Emergency Medicine Journal 2020;37:255.
