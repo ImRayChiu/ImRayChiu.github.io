@@ -17,7 +17,7 @@ I work with my PhD advisor <a href="https://sites.google.com/mail.cse.nsysu.edu.
 
 ## Projects
 
-- **[Aug. 2022]** Utilization of artificial neural network and transfer learning to predict dyskalemia based on ECG in patients receiving regular hemodialysis.
+- **[Aug. 2022]** Utilization of artificial neural network and transfer learning to predict dyskalemia based on ECG in patients receiving regular hemodialysis.<img src=""/>
 - **[Jun. 2022]** Development of artificial intelligence assisted ultrasound guidance system for abdominal aorta examination and aneurysm screeing.
 
 
