@@ -24,10 +24,10 @@ I work with my PhD advisor <a href="https://sites.google.com/mail.cse.nsysu.edu.
 ## Selected Publications
 
 <i style="color:808080">2022</i>
-- [One-Class Machine-Learning Model to Screen for Dysglycemia Using Single Lead ECG in ICU, toward Noninvasive Blood Glucose Monitoring.](https://europepmc.org/article/ppr/ppr527151) <b>Chiu, I. M.</b>, Cheng, C. Y., Chang, P. K., Li, C. J., Cheng, F. J., & Lin, C. H. R. (2022). Preprint.
-- [Development and validation of an end-to-end deep learning pipeline to measure pericardial effusion in echocardiograph.](https://www.medrxiv.org/content/10.1101/2022.08.13.22278732v1) Wu, C. C., Cheng, C. Y., Chen, H. C., Hung, C. H., Chen, T. Y., Lin, C. H. R., & <b>Chiu, I. M.</b> (2022). Preprint.
-- [Machine learning models for predicting in-hospital mortality in patient with sepsis: Analysis of vital sign dynamics.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631306/) C. Y. Cheng, C. T. Kung, F. C. Chen, <b>I. M. Chiu</b>, C. H. Lin, C. C. Chu, C. F. Kung, and C. M. Su. Front Med (Lausanne). 2022 Oct 20;9:964667
-- [Clinical Validation of the Shock Index, Modified Shock Index, Delta Shock Index, and Shock Index-C for Emergency Department ST-Segment Elevation Myocardial Infarction.](https://pubmed.ncbi.nlm.nih.gov/36233705/) Chiang CY, Lin CF, Liu PH, Chen FC, <b>Chiu IM</b>, Cheng FJ. J Clin Med. 2022 Oct 1;11(19):5839.
+- [One-Class Machine-Learning Model to Screen for Dysglycemia Using Single Lead ECG in ICU, toward Noninvasive Blood Glucose Monitoring.](https://europepmc.org/article/ppr/ppr527151)<br><b>Chiu, I. M.</b>, Cheng, C. Y., Chang, P. K., Li, C. J., Cheng, F. J., & Lin, C. H. R. (2022). Preprint.
+- [Development and validation of an end-to-end deep learning pipeline to measure pericardial effusion in echocardiograph.](https://www.medrxiv.org/content/10.1101/2022.08.13.22278732v1)<br> Wu, C. C., Cheng, C. Y., Chen, H. C., Hung, C. H., Chen, T. Y., Lin, C. H. R., & <b>Chiu, I. M.</b> (2022). Preprint.
+- [Machine learning models for predicting in-hospital mortality in patient with sepsis: Analysis of vital sign dynamics.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9631306/)<br> C. Y. Cheng, C. T. Kung, F. C. Chen, <b>I. M. Chiu</b>, C. H. Lin, C. C. Chu, C. F. Kung, and C. M. Su. Front Med (Lausanne). 2022 Oct 20;9:964667
+- [Clinical Validation of the Shock Index, Modified Shock Index, Delta Shock Index, and Shock Index-C for Emergency Department ST-Segment Elevation Myocardial Infarction.](https://pubmed.ncbi.nlm.nih.gov/36233705/)<br> Chiang CY, Lin CF, Liu PH, Chen FC, <b>Chiu IM</b>, Cheng FJ. J Clin Med. 2022 Oct 1;11(19):5839.
 
 <i style="color:808080">2021</i>
 - [Using a Multiclass Machine Learning Model to Predict the Outcome of Acute Ischemic Stroke Requiring Reperfusion Therapy.](https://pubmed.ncbi.nlm.nih.gov/33419013/)
