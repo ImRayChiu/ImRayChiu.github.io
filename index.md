@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Hi! My name is I-Min, I am an Emergency Physician in the Department of Emergency Medicine at Kaohsiung Chang Gung Memorial Hospital
+Hi! My name is I-Min Chiu, I am an Emergency Physician in the Department of Emergency Medicine at Kaohsiung Chang Gung Memorial Hospital
 and a PhD candidate in the Department of Computer Science and Engineering at National Sun Yat-sen University. <br>
 
 I work with my PhD advisor <a href="https://sites.google.com/mail.cse.nsysu.edu.tw/drrichardlin/%E9%A6%96%E9%A0%81?authuser=0"> Prof. Chun-Hung Richard Lin </a> on developing novel computational algorithms for electrical biosignal and biomedical imaging systems. In the meantime, I am a research scholar at Cedars-Sinai Hospital working with <a href="https://researchers.cedars-sinai.edu/David.Ouyang?_ga=2.249926401.609056618.1668391608-571885951.1668391608&ppn=Y3Mtb3JnOmNlZGFycy1zaW5haTpwcm92aWRlcjpwcm92aWRlci1iaW8tcGFnZTpkYS1vdXlhbmctMzMzMzM1NQ%3D%3D">Dr. David Ouyang </a> on echocardiography.
